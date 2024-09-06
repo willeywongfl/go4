@@ -1,0 +1,33 @@
+﻿{
+	"version": 1725615809,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/blin1-sheet0.png",
+		"images/blin1-sheet1.png",
+		"images/pol-sheet0.png",
+		"images/blin2-sheet0.png",
+		"images/blin2-sheet1.png",
+		"images/fon1.png",
+		"images/fon2.png",
+		"images/fonderevo.png",
+		"images/pregrada-sheet0.png",
+		"images/oblako-sheet0.png",
+		"images/sprite-sheet0.png",
+		"media/хруст1.m4a",
+		"media/хруст1.ogg",
+		"media/хруст2.m4a",
+		"media/хруст2.ogg",
+		"media/medlennyiy-zamah.ogg",
+		"media/zvuk5.ogg",
+		"media/faded.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
